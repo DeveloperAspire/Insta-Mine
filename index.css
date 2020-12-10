@@ -1,0 +1,11 @@
+body{
+    background:#FAFAFA;
+    margin:0;
+}
+
+nav{
+    background: #fff;
+    height: 3.3em;
+    line-height: 3.3em;
+    padding: 0 13.5em;
+}
